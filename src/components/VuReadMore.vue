@@ -1,7 +1,7 @@
 <!-- =========================================================================================
-    File Name: VReadMore.vue
+    File Name: VuReadMore.vue
     Description: Read More Component For Vue Applications
-    Component Name: VReadMore
+    Component Name: VuReadMore
     ----------------------------------------------------------------------------------------
     Author: Janaka Edirisinghe with ♥
 ========================================================================================== -->
@@ -18,7 +18,7 @@
   
 <script>
 export default {
-    name: "VReadMore",
+    name: "VuReadMore",
     data() {
         return {
             is_on_read_more: false

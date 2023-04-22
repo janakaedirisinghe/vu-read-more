@@ -1,10 +1,8 @@
 <script setup>
-import VReadMore from './components/VReadMore.vue'
 const text = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero rerum exercitationem aspernatur itaque quasi officia? Voluptatum, at. Possimus asperiores illo libero atque! Distinctio rerum vitae asperiores omnis optio laboriosam repellat.'  
 </script>
 
 <template>
-  <VReadMore :text="text"/>
 </template>
 
 <style scoped>

@@ -1,15 +1,15 @@
 {
-  "name": "vreadmore",
+  "name": "vureadmore",
   "private": false,
   "version": "1.0.0",
   "type": "module",
   "files": ["dist"],
-  "main": "./dist/v-read-more.umd.cjs",
-  "module": "./dist/v-read-more.js",
+  "main": "./dist/vu-read-more.umd.cjs",
+  "module": "./dist/vu-read-more.js",
   "exports": {
     ".": {
-      "import": "./dist/v-read-more.js",
-      "require": "./dist/v-read-more.umd.cjs"
+      "import": "./dist/vu-read-more.js",
+      "require": "./dist/vu-read-more.umd.cjs"
     }
   },
   "scripts": {
