@@ -19,13 +19,13 @@ components:  {
 ```
 
 ## Features
-* Add text break characters length
-* Custom read more button text
-* Custom show less button text
-* Custom readmore/showless button styles
-* Custom text styles
-* Add only read more feature without show less
-* Add redirect link with new tab or same tab
+* Add text break characters length.
+* Custom read more button text.
+* Custom show less button text.
+* Custom readmore/showless button styles.
+* Custom text styles.
+* Add only read more feature without show less.
+* Add redirect link with new tab or same tab.
 
 ## API
 
