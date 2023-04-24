@@ -77,3 +77,5 @@ export default {
 }
 </script>
 ```
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/37530779/234052783-c9c0444f-61ac-4538-8edf-a6c9e3a2592d.gif)
